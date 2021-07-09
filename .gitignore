@@ -1,0 +1,7 @@
+database.ini
+.ipynb_checkpoints/
+scriptLog.log
+test.log
+test.py
+dbTest.ipynb
+shazamScraper.py
